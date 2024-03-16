@@ -1,16 +1,6 @@
-# web_navigation
+# Flutter Web Navigation
 
-Flutter project for web navigation with urls
+https://github.com/aqua30/FlutterWebNavigation/assets/4559525/63458dcf-2f6d-4ad0-93da-306d91791823
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Article Resource
+https://saurabhpant.medium.com/navigation-using-gorouter-in-flutter-web-31045818a1e5
